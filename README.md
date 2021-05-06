@@ -1,1 +1,2 @@
-It is a project for TOP curriculum. It is a simple calulator.
+# CALCULATOR
+A simple clculator made while going through the The Odin Project's curriculum.
